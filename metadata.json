@@ -1,0 +1,6 @@
+{
+  "name": "Aura",
+  "description": "Seu assistente pessoal com calendário por voz, respostas automáticas para e-mails de reuniões, controle de gastos e priorização autônoma de tarefas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
